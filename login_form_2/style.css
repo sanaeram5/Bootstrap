@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time roman;
+}
+ul
+{
+    margin-bottom: 50px;
+}
+ul a{
+    font-size: 29px;
+    color:white;
+}
+ul a:hover{
+    text-decoration: none;
+    color: grey;
+}
+.label{
+    font-size: 19px;
+    color: white;
+    font-weight: normal;
+}
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid #f44c89;
+    margin-bottom: 30px;
+    font-size: 22px;
+    color: white;
+    padding: 20px;
+}
+input[type="checkbox"]{
+    height: 15px;
+    width: 15px;
+}
+small{
+    font-size: 19px;
+    color: white;
+}
+.btn-info{
+    background: #f44c89;
+    border: 2px solid #f44c89;
+    border-radius: 0px;
+    width:360px;
+    margin-top: 20px;
+    font-size: 20px;
+    background: transparent;
+}
+.btn-info{
+   background: #f44c89;
+   border: 2px solid #f44c89; 
+}
+p{
+    font-size: 16px;
+    margin-top: 40px;
+    color:gray;
+}
+img{
+    width:390px;
+    height:350px;
+}
